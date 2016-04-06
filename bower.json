@@ -16,6 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~1.4.0"
+    "polymer": "Polymer/polymer#~1.4.0",
+    "jquery": "~2.2.3",
+    "normalize-css": "~4.0.0"
   }
 }
