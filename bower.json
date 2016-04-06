@@ -1,5 +1,5 @@
 {
-  "name": "univ-polymer",
+  "name": "Tim's Starterkit",
   "authors": [
     "Tim Van Dijck <tim.van.dijck@gmail.com>"
   ],
@@ -16,7 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~1.4.0",
     "jquery": "~2.2.3",
     "normalize-css": "~4.0.0"
   }
