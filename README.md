@@ -11,3 +11,4 @@ A starterkit including Bower, Gulp, Sass and jQuery.
 * Make sure you have Gulp installed on your system.
 * Run npm install and bower install.
 * Run 'gulp' and you're ready to go!
+* No dependencies or generated files are being kept in the repository. Only the things you do yourself, the rest is ignored (cleanness++)!
